@@ -1,0 +1,91 @@
+html {
+    font-size: 10px;
+    background: url('images/farm.jpg') bottom center;
+    background-size: cover;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.keys {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.key {
+    border: .4rem solid black;
+    border-radius: .5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    transition: all .07s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.4);
+    text-shadow: 0 0 .5rem black;
+}
+
+.sheep {
+    background: url('images/sheep.jpg') bottom center;
+    background-size: cover;
+}
+
+.dog {
+    background: url('images/dog.jpg') bottom center;
+    background-size: cover;
+}
+
+.horse {
+    background: url('images/horse.jpg') bottom center;
+    background-size: cover;
+}
+
+.owl {
+    background: url('images/owl.jpg') bottom center;
+    background-size: cover;
+}
+
+.chicken {
+    background: url('images/chicken.jpg') bottom center;
+    background-size: cover;
+}
+
+.cat {
+    background: url('images/cat.jpg') bottom center;
+    background-size: cover;
+}
+
+.pig {
+    background: url('images/pig.jpg') bottom center;
+    background-size: cover;
+}
+
+.cow {
+    background: url('images/cow.jpg') bottom center;
+    background-size: cover;
+}
+
+.pigeon {
+    background: url('images/pigeon.jpg') bottom center;
+    background-size: cover;
+}
+
+
+.playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+}
+
+kbd {
+    display: block;
+    font-size: 4rem;
+}
