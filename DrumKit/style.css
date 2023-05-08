@@ -25,7 +25,7 @@ html {
     margin: .5rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all .7s ease;
     width: 7rem;
     height: 12rem;
     text-align: center;
@@ -36,100 +36,47 @@ html {
 .sheep {
     background: url('images/sheep.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
 }
 
-.sheep:hover {
-    font-size: 46px;
-}
 
 .dog {
     background: url('images/dog.jpg') bottom center;
-    background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.dog:hover {
-    font-size: 46px;
+    background-size: cover
 }
 
 .horse {
     background: url('images/horse.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.horse:hover {
-    font-size: 46px;
 }
 
 .owl {
     background: url('images/owl.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.owl:hover {
-    font-size: 46px;
 }
 
 .chicken {
     background: url('images/chicken.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.chicken:hover {
-    font-size: 46px;
 }
 
 .cat {
     background: url('images/cat.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.cat:hover {
-    font-size: 46px;
 }
 
 .pig {
     background: url('images/pig.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.pig:hover {
-    font-size: 46px;
 }
 
 .cow {
     background: url('images/cow.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.cow:hover {
-    font-size: 46px;
 }
 
 .pigeon {
     background: url('images/pigeon.jpg') bottom center;
     background-size: cover;
-    transition-property: font-size;
-    transition-duration: .3s;
-}
-
-.pigeon:hover {
-    font-size: 46px;
 }
 
 
